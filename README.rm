@@ -1,4 +1,4 @@
-This isa little python script intendet for scanning your aniworld.to account's
+This is a little python script intendet for scanning your aniworld.to account's
 watchlist and download each entrie's episodes. Downloaded entries wont be 
 downloaded again till you remove the for the entrie intendet folder in you download 
 path. 
