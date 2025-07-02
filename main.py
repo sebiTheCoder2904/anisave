@@ -3,7 +3,8 @@ from bs4 import BeautifulSoup
 import subprocess
 import os
 
-WATCHLIST_URL = "https://aniworld.to/user/profil/midnightlife/watchlist"
+USER = "yourUser"
+WATCHLIST_URL = f"https://aniworld.to/user/profil/{USER}/watchlist"
 BASE_URL = "https://aniworld.to/anime/stream"
 LANGUAGE = "German Dub"
 DOWNLOADS_DIR = "downloads"
